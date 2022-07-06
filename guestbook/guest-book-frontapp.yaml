@@ -6,6 +6,6 @@ metadata:
     app: guestbook-ui
 spec:
   storageaccountname: "test-storage-account"
-  azuresubscriptionid: "1234567"
+  azuresubscriptionid: "dfddd"
   webappversion: "v1.2.6"
 
