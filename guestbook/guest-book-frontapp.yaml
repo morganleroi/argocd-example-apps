@@ -7,5 +7,5 @@ metadata:
 spec:
   storageaccountname: "test-storage-account"
   azuresubscriptionid: "ppp"
-  webappversion: "v1.2.8"
+  webappversion: "v1.2.9"
 
