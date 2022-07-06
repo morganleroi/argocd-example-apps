@@ -1,0 +1,11 @@
+apiVersion: webapp.simpletest.com/v1alpha1
+kind: Webapp
+metadata:
+  name: webapp-sample
+  labels:
+    app: guestbook-ui
+spec:
+  storageaccountname: "test-storage-account"
+  azuresubscriptionid: "1234567"
+  webappversion: "v1.2.6"
+
