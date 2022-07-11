@@ -5,7 +5,7 @@ metadata:
   labels:
     app: guestbook-ui-prod
 spec:
-  storageaccountname: "test-storage-account"
+  storageaccountname: "yamaalgolia"
   azuresubscriptionid: "ppp2"
   webappversion: "v1.2.12"
 
